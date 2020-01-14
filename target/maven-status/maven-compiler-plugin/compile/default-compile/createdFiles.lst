@@ -1,0 +1,7 @@
+com\POC\springkafka\mongo\Message.class
+com\POC\springkafka\mongo\MessageRepository.class
+com\POC\springkafka\producer\Sender.class
+com\POC\springkafka\producer\SenderConfig.class
+com\POC\springkafka\consumer\Receiver.class
+com\POC\springkafka\consumer\ReceiverConfig.class
+com\POC\springkafka\SpringkafkaApplication.class
